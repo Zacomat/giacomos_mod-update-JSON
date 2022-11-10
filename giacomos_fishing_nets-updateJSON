@@ -1,1 +1,7 @@
-prova
+{
+  "homepage": "<https://www.curseforge.com/minecraft/mc-mods/giacomos-fishing-net>",
+    "promos": {
+    "1.19.2-recommended": "1.7.5",
+    "1.19-recommended": "1.7.2"
+  }
+}
