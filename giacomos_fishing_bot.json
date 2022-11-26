@@ -1,1 +1,7 @@
-
+{
+  "homepage": "<https://www.curseforge.com/minecraft/mc-mods/giacomos-fishing-bot>",
+    "promos": {
+    "1.19.2-recommended": "1.0",
+    "1.19-recommended": "1.0"
+  }
+}
