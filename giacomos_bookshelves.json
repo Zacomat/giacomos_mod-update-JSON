@@ -1,1 +1,9 @@
 
+{
+  "homepage": "<https://www.curseforge.com/minecraft/mc-mods/giacomos-bookshelf>",
+    "promos": {
+    "1.19.2-recommended": "1.3.4",
+    "1.19.1-recommended": "1.3.4",
+    "1.19-recommended": "1.3.4"
+  }
+}
